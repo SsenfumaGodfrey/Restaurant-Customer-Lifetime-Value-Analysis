@@ -166,7 +166,7 @@ Only 5.0 billion UGX securely delivered
 
 ## Strategic Recommendations
 Immediate Priorities (0-3 Months)
-1. Karachi Turnaround Plan
+#### 1. Karachi Turnaround Plan
 
 Investigate specific underperforming locations in Karachi
 
@@ -174,7 +174,7 @@ Consider localized marketing campaigns
 
 Review competitive landscape and pricing strategy
 
-2. Delivery Operations Overhaul
+#### 2. Delivery Operations Overhaul
 
 Implement real-time tracking for all deliveries
 
@@ -184,7 +184,7 @@ Create compensation policy for delayed/cancelled orders
 
 Target: Reduce cancellations from 33% to 15%
 
-3. Customer Reactivation Campaign
+#### 3. Customer Reactivation Campaign
 
 Launch "We Miss You" campaign targeting 2,984 inactive customers
 
@@ -192,8 +192,8 @@ Time-limited offers for customers inactive 64-92 days
 
 Premium incentives for 126+ day churned customers
 
-Short-Term Strategies (3-6 Months)
-4. Menu Optimization
+###### Short-Term Strategies (3-6 Months)
+#### 4. Menu Optimization
 
 Discontinue or rework Fries + Italian combo
 
@@ -201,7 +201,7 @@ Bundle high-margin Pasta with popular items
 
 Create Teenager-focused meal deals (targeting 34.62% segment)
 
-5. Loyalty Program Enhancement
+#### 5. Loyalty Program Enhancement
 
 Create clear upgrade path from Bronze to Golden tier
 
@@ -209,7 +209,7 @@ Platinum-exclusive events or early access to new items
 
 Referral bonuses to leverage existing high-value customers
 
-6. ## Seasonal Revenue Management
+#### 6.  Seasonal Revenue Management
 
 Leverage January peak (9.18%) for annual promotions
 
@@ -217,8 +217,8 @@ Develop July/February/May campaigns to lift underperforming months
 
 Align signup momentum (July/December) with loyalty enrollment
 
-Long-Term Initiatives (6-12 Months)
-7. Churn Prediction Model
+###### Long-Term Initiatives (6-12 Months)
+#### 7. Churn Prediction Model
 
 Develop SQL-based churn scoring system
 
@@ -226,7 +226,7 @@ Automated alerts for customers showing early churn signals
 
 Personalized retention offers based on order history
 
-8. Geographic Expansion Strategy
+#### 8. Geographic Expansion Strategy
 
 Replicate Multan's success formula to other cities
 
@@ -234,7 +234,7 @@ Consider neighborhood-level analysis within Karachi
 
 Develop city-specific menu adaptations
 
-9. Gender-Neutral Marketing Approach
+#### 9. Gender-Neutral Marketing Approach
 
 Maintain current inclusive positioning
 
