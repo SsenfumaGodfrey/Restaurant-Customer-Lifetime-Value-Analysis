@@ -3,7 +3,7 @@
 *Comprehensive Business Intelligence Report*
 
 ## Executive Summary
-This comprehensive analysis examines customer behavior, revenue patterns, and operational efficiency across a restaurant chain's operations. The study integrates data from five key business perspectives: Market Analysis, Customer Loyalty, Product Performance, Customer Retention, and Logistics Operations. The findings reveal critical insights about market dominance, customer segmentation, product preferences, and operational challenges that directly impact the company's bottom line.
+This comprehensive analysis examines customer behavior, revenue patterns and operational efficiency across a restaurant chain's operations. The study integrates data from five key business perspectives like Market Analysis, Customer Loyalty, Product Performance, Customer Retention and Logistics Operations. The findings reveal critical insights about market dominance, customer segmentation, product preferences and operational challenges that directly impact the company's bottom line.
 
 #### Key Finding: The business shows remarkable gender balance (within 1% revenue difference across all genders) but faces significant operational challenges with 33% revenue loss due to order cancellations and a concerning 49.31% revenue contribution from inactive customers.
 
@@ -34,15 +34,15 @@ Lahore	20.33%	1,217	#2 (Strong Performer)
 Karachi	18.60%	1,145	#3 (Underperformer)
 Key Insights:
 
-Multan leads with 21.28% revenue contribution from 1,256 orders
+ - Multan leads with 21.28% revenue contribution from 1,256 orders
 
-Lahore closely follows with 20.33% revenue from 1,217 orders
+- Lahore closely follows with 20.33% revenue from 1,217 orders
 
-Karachi significantly lags at 18.60% despite being Pakistan's largest city
+- Karachi significantly lags at 18.60% despite being Pakistan's largest city
 
 The gap between top and bottom performers is 2.68 percentage points, representing substantial revenue leakage in Karachi
 
-##### Geographic Opportunity:
+##### Geographic Opportunity.
 The underperformance in Karachi suggests either operational issues, competitive pressure, or insufficient market penetration in specific neighborhoods.
 
 
@@ -53,7 +53,7 @@ Gender	Revenue Contribution	Total Revenue (UGX)
 Male	33.74%	4,839,910.63
 Female	33.64%	4,825,000.00 (approx)
 Others	32.62%	4,678,000.00 (approx)
-Critical Finding: The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
+*Critical Finding* The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
 
 ## Age-Based Revenue Analysis
 Age demographics show Teenagers as the primary revenue drivers, with nearly equal distribution across all age groups.
@@ -64,14 +64,10 @@ Adults	    32.93%	1,859    Consistent performers
 Seniors	    32.44%	1,834    Value-conscious, loyal
 
 
-Insights:
-Teenagers contribute the highest revenue (34.62%) despite likely having lower individual spending power - suggests high frequency or group ordering
+*Insights*
+Teenagers contribute the highest revenue (34.62%) despite likely having lower individual spending power,  suggests high frequency or group ordering. All age segments are within 2.18% of each other, indicating universal appeal. Senior segment shows strong order volume (1,834 orders), indicating potential for daytime/early evening promotions
 
-All age segments are within 2.18% of each other, indicating universal appeal
-
-Senior segment shows strong order volume (1,834 orders), indicating potential for daytime/early evening promotions
-
-Loyalty Program Performance
+## Loyalty Program Performance
 Points-Based Customer Segmentation
 The loyalty program demonstrates clear tier effectiveness with platinum members leading revenue contribution.
 
