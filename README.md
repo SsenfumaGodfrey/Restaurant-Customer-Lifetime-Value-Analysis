@@ -68,7 +68,7 @@ Seniors	    32.44%	1,834    Value-conscious, loyal
 Teenagers contribute the highest revenue (34.62%) despite likely having lower individual spending power,  suggests high frequency or group ordering. All age segments are within 2.18% of each other, indicating universal appeal. Senior segment shows strong order volume (1,834 orders), indicating potential for daytime/early evening promotions
 
 ## Loyalty Program Performance
-Points-Based Customer Segmentation
+#### Points-Based Customer Segmentation
 The loyalty program demonstrates clear tier effectiveness with platinum members leading revenue contribution.
 
 Loyalty Tier	Customer Count	Revenue Share	Revenue Contribution
@@ -77,15 +77,15 @@ Golden	1,743	29.51%	Strong second tier
 Bronze/Low	~2,000	20.05%	Combined segment
 Key Observations:
 
-Platinum members (1,828 customers) generate 30.11% of revenue - exceptional per-customer value
+- Platinum members (1,828 customers) generate 30.11% of revenue, exceptional per-customer value
 
-Golden members (1,743) closely follow with 29.51%, indicating strong middle-tier engagement
+- Golden members (1,743) closely follow with 29.51%, indicating strong middle-tier engagement
 
-Bronze and low-point members (combined) contribute only 20.05% despite representing a larger customer base
+- Bronze and low-point members (combined) contribute only 20.05% despite representing a larger customer base
 
-The top two tiers (Platinum + Golden) with 3,571 customers generate nearly 60% of total revenue
+- The top two tiers (Platinum + Golden) with 3,571 customers generate nearly 60% of total revenue
 
-Implication: The loyalty program effectively drives higher spending among engaged customers, but there's significant opportunity to upgrade bronze/low-point members.
+*Implication* The loyalty program effectively drives higher spending among engaged customers, but there's significant opportunity to upgrade bronze/low-point members.
 
 ## Product Performance Analysis
 #### Category Performance
@@ -102,13 +102,9 @@ Pasta    	1,262           	3,078,850.36
 Sandwich	1,243	            2,966,591.12
 Burger	  1,143           	2,739,566.41
 
-*Critical Finding:* Despite lower order volume than Pasta, Pasta generates significantly higher revenue, suggesting:
+*Critical Finding:* Despite lower order volume than Pasta, Pasta generates significantly higher revenue, suggesting;
 
-Higher price points for pasta dishes
-
-More add-ons or premium options with pasta
-
-Better upselling opportunities with pasta orders
+Higher price points for pasta dishes,... More add-ons or premium options with pasta,...Better upselling opportunities with pasta orders
 
 ## Combo Performance Analysis
 Combo Type         	Total Orders  	Revenue Generated (UGX)	  Performance
@@ -117,24 +113,24 @@ Sandwich + Italian	   283	           646,461.52	            Highest Volume
 Burger + Dessert       207             492,304.73            	Underperforming
 
 Fries + Italian	22	~50,000 (est)	Critically Underperforming
-Strategic Insight: The Fries + Italian combo with only 22 orders represents a menu engineering failure - customers clearly don't perceive these items as complementary.
+*Strategic Insight* The Fries + Italian combo with only 22 orders represents a menu engineering failure,  customers clearly don't perceive these items as complementary.
 
 ## Customer Retention & Churn Analysis
-Active vs. Inactive Customer Analysis
+#### Active vs. Inactive Customer Analysis
 Customer Status	Customer Count	Revenue Share	Contribution
-Active	3,016	50.69%	Current revenue drivers
-Inactive	2,984	49.31%	At-risk revenue
-Alarming Finding: The business is essentially operating with one hand tied behind its back - nearly half of the customer base (49.31%) is inactive, representing significant lost revenue potential.
+- Active	3,016	50.69%	Current revenue drivers
+- Inactive	2,984	49.31%	At-risk revenue
+*Alarming Finding* The business is essentially operating with one hand tied behind its back, nearly half of the customer base (49.31%) is inactive, representing significant lost revenue potential.
 
 #### Churn Risk Segmentation
 Risk Level	Time Since Last Visit	Customer %	Status
 Highly Retained	< 31 days	4.97%	Excellent
 Moderate Risk	64-92 days	14.57%	At Risk
 Highly Churned	126+ days	65.49%	Critical
-Critical Concern: 65.49% of customers haven't ordered in 126+ days - this represents massive customer lifetime value leakage and indicates fundamental retention issues.
+*Critical Concern* 65.49% of customers haven't ordered in 126+ days. This represents massive customer lifetime value leakage and indicates fundamental retention issues.
 
 ## Operational Efficiency
-Delivery Performance Analysis
+### Delivery Performance Analysis
 The logistics analysis reveals concerning operational challenges that directly impact revenue.
 
 Delivery Status	Order Count	Revenue Impact	Business Effect
@@ -143,22 +139,22 @@ Delayed	1,968	32.43% at risk	Warning
 Cancelled	1,972	33% revenue lost	Critical
 Operational Crisis:
 
-Only 35% of orders are successfully delivered
+- Only 35% of orders are successfully delivered.
 
-33% of orders are cancelled - representing direct revenue loss
+- 33% of orders are cancelled hence representing direct revenue loss.
 
-32.43% of revenue is at risk due to delays
+- 32.43% of revenue is at risk due to delays.
 
-Combined, 65% of orders face some form of delivery issue
 
-Revenue at Risk Calculation:
-If we assume total revenue of approximately 14.3 billion UGX:
 
-4.7 billion UGX lost to cancellations
+#### Revenue at Risk
+If we assume total revenue of approximately 14.3 billion UGX;
 
-4.6 billion UGX at risk from delays
+- 4.7 billion UGX lost to cancellations
 
-Only 5.0 billion UGX securely delivered
+- 4.6 billion UGX at risk from delays
+
+- Only 5.0 billion UGX securely delivered
 
 ## Strategic Recommendations
 Immediate Priorities (0-3 Months)
