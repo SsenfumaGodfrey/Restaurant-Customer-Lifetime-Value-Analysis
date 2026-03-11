@@ -42,7 +42,7 @@ Karachi significantly lags at 18.60% despite being Pakistan's largest city
 
 The gap between top and bottom performers is 2.68 percentage points, representing substantial revenue leakage in Karachi
 
-## Geographic Opportunity:
+#### Geographic Opportunity:
 The underperformance in Karachi suggests either operational issues, competitive pressure, or insufficient market penetration in specific neighborhoods.
 
 ## Customer Demographics
