@@ -25,6 +25,8 @@ Strategic Recommendations
 Conclusion
 
 ## Market Analysis
+![mm](mm.jpg)
+
 #### City-Wide Performance Metrics
 The geographical distribution of revenue reveals a two-tier market structure with Multan and Lahore dominating performance, while Karachi significantly underperforms relative to its market potential.
 ![mm](mm.jpg)
