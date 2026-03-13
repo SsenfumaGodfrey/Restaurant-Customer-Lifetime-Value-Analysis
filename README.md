@@ -29,7 +29,7 @@ Conclusion
 
 #### City-Wide Performance Metrics
 The geographical distribution of revenue reveals a two-tier market structure with Multan and Lahore dominating performance, while Karachi significantly underperforms relative to its market potential.
-![city vs revenue mm](city vs revenue mm.jpg)
+![city vs revenue mm.jpg](city vs revenue mm.jpg)
 
 #### City	Revenue Share	Total Orders	Performance Rank
 Multan	21.28%	1,256	#1 (Top Performer)
