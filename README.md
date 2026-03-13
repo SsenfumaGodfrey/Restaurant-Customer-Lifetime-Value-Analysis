@@ -1,4 +1,4 @@
-# Restaurant-Customer-Lifetime-Value-Analysis
+# Customer-Lifetime-Value-Analysis
 
 *Comprehensive Business Intelligence Report*
 
