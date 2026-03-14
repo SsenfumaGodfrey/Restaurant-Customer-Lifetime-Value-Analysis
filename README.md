@@ -67,11 +67,11 @@ Age demographics show Teenagers as the primary revenue drivers, with nearly equa
 ##### Age Group	Revenue Share	Total Orders	Key Characteristics
 Teenagers 	34.62%	1,954	   Highest spenders, trend-driven
 Adults	    32.93%	1,859    Consistent performers
-Seniors	    32.44%	1,834    Value-conscious, loyal
+Seniors	    32.57%	1,834    Value-conscious, loyal
 
 
 *Insights*
-Teenagers contribute the highest revenue (34.62%) despite likely having lower individual spending power,  suggests high frequency or group ordering. All age segments are within 2.18% of each other, indicating universal appeal. Senior segment shows strong order volume (1,834 orders), indicating potential for daytime/early evening promotions
+Teenagers contribute the highest revenue (34.62%) despite likely having lower individual spending power,  suggests high frequency or group ordering. All age segments are within 2.18% of each other, indicating universal appeal. Senior segment shows strong order volume (1,954 orders), indicating potential for daytime/early evening promotions
 
 ## Loyalty Program Performance
 #### Points-Based Customer Segmentation
