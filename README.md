@@ -50,7 +50,7 @@ The gap between top and bottom performers is 2.68 percentage points, representin
 The underperformance in Karachi suggests either operational issues, competitive pressure, or insufficient market penetration in specific neighborhoods.
 
 
-## Gender-Based Revenue Analysis
+#### Gender-Based Revenue Analysis
 The gender distribution reveals an exceptionally balanced customer base, making targeted marketing challenging but indicating broad market appeal.
 
 Gender	Revenue Contribution	Total Revenue (UGX)
@@ -59,10 +59,10 @@ Female	33.64%	4,825,000.00 (approx)
 Others	32.62%	4,678,000.00 (approx)
 *Critical Finding* The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
 
-## Age-Based Revenue Analysis
+#### Age-Based Revenue Analysis
 Age demographics show Teenagers as the primary revenue drivers, with nearly equal distribution across all age groups.
 
-#### Age Group	Revenue Share	Total Orders	Key Characteristics
+##### Age Group	Revenue Share	Total Orders	Key Characteristics
 Teenagers 	34.62%	1,954	   Highest spenders, trend-driven
 Adults	    32.93%	1,859    Consistent performers
 Seniors	    32.44%	1,834    Value-conscious, loyal
