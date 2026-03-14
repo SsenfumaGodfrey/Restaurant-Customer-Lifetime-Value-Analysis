@@ -52,7 +52,7 @@ The underperformance in Karachi suggests either operational issues, competitive 
 
 #### Gender-Based Revenue Analysis
 The gender distribution reveals an exceptionally balanced customer base, making targeted marketing challenging but indicating broad market appeal.
-![GENDER-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/city-01.png)
+![GENDER-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/GENDER-01.png))
 
 Gender	Revenue Contribution	Total Revenue (UGX)
 Male	33.74%	4,839,910.63
