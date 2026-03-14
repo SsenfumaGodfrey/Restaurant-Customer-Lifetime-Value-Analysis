@@ -65,9 +65,9 @@ Age demographics show Teenagers as the primary revenue drivers, with nearly equa
 ![age-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/age-01-01.png)
 
 ##### Age Group	Revenue Share	Total Orders	Key Characteristics
-Teenagers 	34.62%	1,954	   Highest spenders, trend-driven
-Adults	    32.93%	1,859    Consistent performers
-Seniors	    32.57%	1,834    Value-conscious, loyal
+Teenagers 	34.62%	2062	   Highest spenders, trend-driven
+Adults	    32.93%	1,984   Consistent performers
+Seniors	   32.57% 1,954   Value-conscious, loyal
 
 
 *Insights*
