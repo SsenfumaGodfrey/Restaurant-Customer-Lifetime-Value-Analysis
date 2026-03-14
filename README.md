@@ -62,6 +62,7 @@ Others	32.62%	4,678,000.00 (approx)
 
 #### Age-Based Revenue Analysis
 Age demographics show Teenagers as the primary revenue drivers, with nearly equal distribution across all age groups.
+![age-01.png]()
 
 ##### Age Group	Revenue Share	Total Orders	Key Characteristics
 Teenagers 	34.62%	1,954	   Highest spenders, trend-driven
