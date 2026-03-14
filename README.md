@@ -115,7 +115,7 @@ Burger	  1,143           	2,739,566.41
 
 Higher price points for pasta dishes,... More add-ons or premium options with pasta,...Better upselling opportunities with pasta orders
 
-## Combo Performance Analysis
+#### Combo Performance Analysis
 Combo Type         	Total Orders  	Revenue Generated (UGX)	  Performance
 Pasta + Fast Food	     272	           660,350.12	            Highest Revenue
 Sandwich + Italian	   283	           646,461.52	            Highest Volume
