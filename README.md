@@ -25,7 +25,7 @@ Strategic Recommendations
 Conclusion
 
 ## Market Analysis
-### OVERVIEW INSIGHTS
+### *OVERVIEW INSIGHTS*
 ![mm](mm.jpg)
 
 #### City-Wide Performance Metrics
