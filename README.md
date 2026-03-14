@@ -77,6 +77,9 @@ Teenagers contribute the highest revenue (34.62%) despite likely having lower in
 #### Points-Based Customer Segmentation
 The loyalty program demonstrates clear tier effectiveness with platinum members leading revenue contribution.
 
+![po-02.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/po-02.png)
+![po-02.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/po-02.png)
+
 Loyalty Tier	Customer Count	Revenue Share	Revenue Contribution
 Platinum	1,828	30.11%	Highest per-customer value
 Golden	1,743	29.51%	Strong second tier
