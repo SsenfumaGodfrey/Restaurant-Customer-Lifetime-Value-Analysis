@@ -97,6 +97,8 @@ Key Observations:
 *Implication* The loyalty program effectively drives higher spending among engaged customers, but there's significant opportunity to upgrade bronze/low-point members.
 
 ## Product Performance Analysis
+### OVERVIEW
+
 #### Category Performance
 Italian cuisine emerges as the clear category leader, followed closely by Fast Food, with Dessert showing concerning underperformance.
 
