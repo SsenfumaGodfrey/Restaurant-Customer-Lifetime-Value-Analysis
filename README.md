@@ -98,7 +98,7 @@ Key Observations:
 
 ## Product Performance Analysis
 ### OVERVIEW
-
+![product team](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/PRODUCT%20TEAM.jpg)
 #### Category Performance
 Italian cuisine emerges as the clear category leader, followed closely by Fast Food, with Dessert showing concerning underperformance.
 
