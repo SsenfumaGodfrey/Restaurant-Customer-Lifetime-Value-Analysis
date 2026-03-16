@@ -112,7 +112,7 @@ Dish    	Total Orders  	Revenue Generated (UGX)
 Pasta    	1,262           	3,078,850.36
 Sandwich	1,243	            2,966,591.12
 Burger	  1,143           	2,739,566.41
-
+#### - Individual Dish Performance
 *Critical Finding:* Despite lower order volume than Pasta, Pasta generates significantly higher revenue, suggesting;
 
 Higher price points for pasta dishes,... More add-ons or premium options with pasta,...Better upselling opportunities with pasta orders
