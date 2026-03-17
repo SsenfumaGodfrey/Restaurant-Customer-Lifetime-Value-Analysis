@@ -32,10 +32,13 @@ Conclusion
 The geographical distribution of revenue reveals a two-tier market structure with Multan and Lahore dominating performance, while Karachi significantly underperforms relative to its market potential.
 ![city-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/city-01.png)
 
-#### City	Revenue Share	Total Orders	Performance Rank
-Multan	21.28%	1,256	#1 (Top Performer)
-Lahore	20.33%	1,217	#2 (Strong Performer)
-Karachi	18.60%	1,145	#3 (Underperformer)
+| City	 | Revenue(%) | 	Total Orders |	Performance Rank |
+ |------|--------|-------|-------|  
+|Multan	|21.28%|	1,256|	#1 (Top Performer)|
+|Lahore|	20.33%	|1,217|	#2 (Strong Performer)|
+|Karachi|	18.60%	|1,145|	#3 (Underperformer)|
+
+
 Key Insights:
 
  - Multan leads with 21.28% revenue contribution from 1,256 orders
@@ -63,11 +66,12 @@ Others	32.62%	4,678,000.00 (approx)
 #### Age-Based Revenue Analysis
 Age demographics show Teenagers as the primary revenue drivers, with nearly equal distribution across all age groups.
 ![age-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/age-01-01.png)
-
-##### Age Group	Revenue Share	Total Orders	Key Characteristics
-Teenagers 	34.62%	2062	   Highest spenders, trend-driven
-Adults	    32.93%	1,984   Consistent performers
-Seniors	   32.57% 1,954   Value-conscious, loyal
+Key Characteristics:
+ | Age Group| 	Revenue Share| 	Total Orders| trend-driven | 
+ |------|--------|-------|-------|   
+| Teenagers|  	34.62%	|2,062 | Highest spenders|
+| Adults	  | 32.93%	|1,984 | Consistent performers|
+| Seniors	 | 32.57% |1,954 |Value-conscious, loyal|
 
 
 *Insights*
@@ -81,9 +85,10 @@ The loyalty program demonstrates clear tier effectiveness with platinum members 
 ![po-02.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/po-02.png)
 
 Loyalty Tier	Customer Count	Revenue Share	Revenue Contribution
-Platinum	1,828	30.11%	Highest per-customer value
-Golden	1,743	29.51%	Strong second tier
-Bronze/Low	~2,000	20.05%	Combined segment
+|Platinum	|1,828 (Total Order)	|30.11% Tota Revenue|	Highest per-customer value|
+|Golden|	1,743 (Total Order)	|	29.51%Tota Revenue|	Strong second tier|
+|Bronze/Low	|~2,000 (Total Order)	|	20.05%Tota Revenue	|Combined segment|
+
 Key Observations:
 
 - Platinum members (1,828 customers) generate 30.11% of revenue, exceptional per-customer value
