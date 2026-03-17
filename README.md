@@ -193,7 +193,7 @@ If we assume total revenue of approximately 14.3 billion UGX;
 - Only 5.0 billion UGX securely delivered
 
 ## Strategic Recommendations
-Immediate Priorities (0-3 Months)
+###### Immediate Priorities (0-3 Months)
 #### 1. Karachi Turnaround Plan
 *Investigate specific underperforming locations in Karachi and Consider localized marketing campaigns plus Review competitive landscape and pricing strategy*
 
