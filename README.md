@@ -211,7 +211,7 @@ Launch "We Miss You" campaign targeting 2,984 inactive customers and Time-limite
 *Create clear upgrade path from Bronze to Golden tier and Platinum-exclusive events or early access to new items plus referral bonuses to leverage existing high-value customers*
 
 #### 6.  Seasonal Revenue Management
-*Leverage January peak (9.18%) for annual promotions and Develop July/February/May campaigns to lift underperforming months and also align signup momentum (July/December) with loyalty enrollment
+*Leverage January peak (9.18%) for annual promotions and Develop July/February/May campaigns to lift underperforming months and also align signup momentum (July/December) with loyalty enrollment*
 
 
 
