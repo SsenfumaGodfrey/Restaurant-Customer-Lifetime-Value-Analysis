@@ -181,6 +181,8 @@ Operational Crisis:
 
 - 32.43% of revenue is at risk due to delays.
 
+### Overview
+![Sta](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/sta-01.png)
 
 
 #### Revenue at Risk
