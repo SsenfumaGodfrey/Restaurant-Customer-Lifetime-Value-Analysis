@@ -195,80 +195,30 @@ If we assume total revenue of approximately 14.3 billion UGX;
 ## Strategic Recommendations
 Immediate Priorities (0-3 Months)
 #### 1. Karachi Turnaround Plan
-
-Investigate specific underperforming locations in Karachi
-
-Consider localized marketing campaigns
-
-Review competitive landscape and pricing strategy
+*Investigate specific underperforming locations in Karachi and Consider localized marketing campaigns plus Review competitive landscape and pricing strategy*
 
 #### 2. Delivery Operations Overhaul
-
-Implement real-time tracking for all deliveries
-
-Establish delivery partner performance metrics
-
-Create compensation policy for delayed/cancelled orders
-
-Target: Reduce cancellations from 33% to 15%
+*Implement real-time tracking for all deliveries and establish delivery partner performance metrics, create compensation policy for delayed/cancelled orders hence Reducing cancellations from 33% to 15%*
 
 #### 3. Customer Reactivation Campaign
-
-Launch "We Miss You" campaign targeting 2,984 inactive customers
-
-Time-limited offers for customers inactive 64-92 days
-
-Premium incentives for 126+ day churned customers
+Launch "We Miss You" campaign targeting 2,984 inactive customers and Time-limited offers for customers inactive 64-92 days plus Premium incentives for 126+ day churned customers
 
 ###### Short-Term Strategies (3-6 Months)
 #### 4. Menu Optimization
-
-Discontinue or rework Fries + Italian combo
-
-Bundle high-margin Pasta with popular items
-
-Create Teenager-focused meal deals (targeting 34.62% segment)
+*Discontinue or rework Fries + Italian combo and Bundle high-margin Pasta with popular items, Create Teenager-focused meal deals (targeting 34.62% segment)*
 
 #### 5. Loyalty Program Enhancement
-
-Create clear upgrade path from Bronze to Golden tier
-
-Platinum-exclusive events or early access to new items
-
-Referral bonuses to leverage existing high-value customers
+*Create clear upgrade path from Bronze to Golden tier and Platinum-exclusive events or early access to new items plus referral bonuses to leverage existing high-value customers*
 
 #### 6.  Seasonal Revenue Management
+*Leverage January peak (9.18%) for annual promotions and Develop July/February/May campaigns to lift underperforming months and also align signup momentum (July/December) with loyalty enrollment
 
-Leverage January peak (9.18%) for annual promotions
 
-Develop July/February/May campaigns to lift underperforming months
-
-Align signup momentum (July/December) with loyalty enrollment
-
-###### Long-Term Initiatives (6-12 Months)
-#### 7. Churn Prediction Model
-
-Develop SQL-based churn scoring system
-
-Automated alerts for customers showing early churn signals
-
-Personalized retention offers based on order history
 
 #### 8. Geographic Expansion Strategy
 
-Replicate Multan's success formula to other cities
+*Replicate Multan's success formula to other cities and consider neighborhood-level analysis within Karachi plus develop city-specific menu adaptations*
 
-Consider neighborhood-level analysis within Karachi
-
-Develop city-specific menu adaptations
-
-#### 9. Gender-Neutral Marketing Approach
-
-Maintain current inclusive positioning
-
-Focus on lifestyle and taste preferences rather than gender targeting
-
-Leverage the 1% balance as unique selling proposition
 
 ## Conclusion
 This analysis reveals a restaurant business with strong fundamentals - a loyal platinum customer base, balanced demographic appeal, and clear product winners like Pasta and Italian cuisine. However, significant operational challenges threaten long-term sustainability. The 33% order cancellation rate and 49.31% revenue from inactive customers represent immediate threats requiring urgent attention.
