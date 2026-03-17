@@ -162,7 +162,7 @@ Customer Status	Customer Count	Revenue Share	Contribution
 
 ## Operational Efficiency
 ### Delivery Performance Analysis
-
+![active](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/active.jpg)
 The logistics analysis reveals concerning operational challenges that directly impact revenue.
 
  |Delivery Status |	Order Count |	Revenue | Impact	Business Effect |
