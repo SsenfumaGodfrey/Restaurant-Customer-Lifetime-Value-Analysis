@@ -113,7 +113,8 @@ Pasta    	1,262           	3,078,850.36
 Sandwich	1,243	            2,966,591.12
 Burger	  1,143           	2,739,566.41
 
-| table | table | table |
+|table|table|table|
+|........|........|........|
 |cell|cell|cell|
 |cell|cell|cell|
 |cell|cell|cell|
