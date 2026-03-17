@@ -57,10 +57,11 @@ The underperformance in Karachi suggests either operational issues, competitive 
 The gender distribution reveals an exceptionally balanced customer base, making targeted marketing challenging but indicating broad market appeal.
 ![Gender-01.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/Gender-01.png)
 
-Gender	Revenue Contribution	Total Revenue (UGX)
-Male	33.74%	4,839,910.63
-Female	33.64%	4,825,000.00 (approx)
-Others	32.62%	4,678,000.00 (approx)
+ |Gender |	Revenue Contribution |	Total Revenue (UGX) |
+  |-------|------|------|
+ |Male |	33.74% |	4,839,910.63 |
+ |Female	 |33.64% |	4,825,000.00 (approx) |
+ |Others |	32.62% |	4,678,000.00 (approx) |
 *Critical Finding* The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
 
 #### Age-Based Revenue Analysis
