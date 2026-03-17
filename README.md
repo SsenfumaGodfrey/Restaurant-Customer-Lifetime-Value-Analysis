@@ -169,6 +169,7 @@ The logistics analysis reveals concerning operational challenges that directly i
  |Successful |	2,060 |	35% | revenue generated	Positive |
  |Delayed |	1,968 |	32.43% | at risk	Warning |
  |Cancelled	 |1,972 |	33%  |revenue lost	Critical |
+ 
 Operational Crisis:
 
 - Only 35% of orders are successfully delivered.
