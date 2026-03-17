@@ -62,7 +62,8 @@ The gender distribution reveals an exceptionally balanced customer base, making 
  |Male |	33.74% |	4,839,910.63 |
  |Female	 |33.64% |	4,825,000.00 (approx) |
  |Others |	32.62% |	4,678,000.00 (approx) |
-*Critical Finding* The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
+ 
+*Critical Finding.* The maximum variance across genders is only 1.12%, demonstrating that the restaurant has successfully created an inclusive environment appealing to all demographics equally. This is rare in the food industry and represents a unique brand strength.
 
 #### Age-Based Revenue Analysis
 Age demographics show Teenagers as the primary revenue drivers, with nearly equal distribution across all age groups.
