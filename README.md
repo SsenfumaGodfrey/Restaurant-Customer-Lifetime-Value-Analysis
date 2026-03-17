@@ -162,6 +162,7 @@ Customer Status	Customer Count	Revenue Share	Contribution
 
 ## Operational Efficiency
 ### Delivery Performance Analysis
+
 The logistics analysis reveals concerning operational challenges that directly impact revenue.
 
  |Delivery Status |	Order Count |	Revenue | Impact	Business Effect |
