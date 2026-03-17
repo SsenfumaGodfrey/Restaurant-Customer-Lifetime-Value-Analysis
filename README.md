@@ -110,11 +110,11 @@ Dessert	   1,133	         18.47%	         Underperformer
 *Individual Dish Performance*
 
 
-| Dish | Total Orders | Revenue Generated (UGX) |
-|--------|--------|--------|
-|Pasta|	1,262|	3,078,850.36|
-|Sandwich|1,243| 2,966,591.12|
-|Burger|1,143|2,739,566.41|
+| Dish | Total Orders | Revenue Generated (UGX) |Performance Status |
+|--------|--------|--------|--------|
+|Pasta|	1,262|	3,078,850.36|#1 Performer|
+|Sandwich|1,243| 2,966,591.12| #2 Performer|
+|Burger|1,143|2,739,566.41|Underperformer|
 
 
 
