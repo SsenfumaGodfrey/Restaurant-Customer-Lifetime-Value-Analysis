@@ -102,12 +102,9 @@ Key Observations:
 #### Category Performance
 Italian cuisine emerges as the clear category leader, followed closely by Fast Food, with Dessert showing concerning underperformance.
 ![ee-01](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/ee-01.png)
-/table Category	Total Orders	Revenue Share	     Performance Status
-Italian	   1,236        	20.96%	         #1 Performer
-Fast Food	 1,222	        20.01%	         #2 Performer
-Dessert	   1,133	         18.47%	         Underperformer
 
-*Individual Dish Performance*
+
+*Table*
 
 
 | Dish | Total Orders | Revenue Generated (UGX) |Performance Status |
