@@ -114,11 +114,12 @@ Sandwich	1,243	            2,966,591.12
 Burger	  1,143           	2,739,566.41
 
 |table|table|table|
-|........|........|........|
+|--------|--------|--------|
 |cell|cell|cell|
 |cell|cell|cell|
 |cell|cell|cell|
 |cell|cell|cell|
+
 
 ####  Individual Dish Performance
 ![Dish](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/dish-01.png)
