@@ -139,16 +139,18 @@ Fries + Italian	22	~50,000 (est)	Critically Underperforming
 ## Customer Retention & Churn Analysis
 #### Active vs. Inactive Customer Analysis
 Customer Status	Customer Count	Revenue Share	Contribution
-- Active	3,016	50.69%	Current revenue drivers
-- Inactive	2,984	49.31%	At-risk revenue
-*Alarming Finding* The business is essentially operating with one hand tied behind its back, nearly half of the customer base (49.31%) is inactive, representing significant lost revenue potential.
+- Active	with Total Order of 3,016 and generated	50.69%	 revenue drivers
+- Inactive with Total Order of	2,984 and 49.31% revenue	At-risk revenue
+- *Alarming Finding* The business is essentially operating with one hand tied behind its back, nearly half of the customer base (49.31%) is inactive, representing significant lost revenue potential.
 
 #### Churn Risk Segmentation
-Risk Level	Time Since Last Visit	Customer %	Status
-Highly Retained	< 31 days	4.97%	Excellent
-Moderate Risk	64-92 days	14.57%	At Risk
-Highly Churned	126+ days	65.49%	Critical
-*Critical Concern* 65.49% of customers haven't ordered in 126+ days. This represents massive customer lifetime value leakage and indicates fundamental retention issues.
+|Risk Level	Time Since Last Visit|	Customer| %	Status|
+|-------|--------|------
+|Highly Retained	< 31 days|	4.97%|	Excellent|
+|Moderate Risk	64-92 days|	14.57%	| At Risk|
+|Highly Churned	126+ days|	65.49% |	Critical |
+
+- *Critical Concern* 65.49% of customers haven't ordered in 126+ days. This represents massive customer lifetime value leakage and indicates fundamental retention issues.
 
 ## Operational Efficiency
 ### Delivery Performance Analysis
