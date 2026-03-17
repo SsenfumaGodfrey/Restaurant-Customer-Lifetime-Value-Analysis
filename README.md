@@ -146,6 +146,8 @@ Fries + Italian	22	~50,000 (est)	Critically Underperforming
 
 ## Customer Retention & Churn Analysis
 #### Active vs. Inactive Customer Analysis
+![active](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/active.jpg)
+
 Customer Status	Customer Count	Revenue Share	Contribution
 - Active	with Total Order of 3,016 and generated	50.69%	 revenue drivers
 - Inactive with Total Order of	2,984 and 49.31% revenue	At-risk revenue
@@ -162,7 +164,7 @@ Customer Status	Customer Count	Revenue Share	Contribution
 
 ## Operational Efficiency
 ### Delivery Performance Analysis
-![active](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/active.jpg)
+
 The logistics analysis reveals concerning operational challenges that directly impact revenue.
 
  |Delivery Status |	Order Count |	Revenue | Impact	Business Effect |
