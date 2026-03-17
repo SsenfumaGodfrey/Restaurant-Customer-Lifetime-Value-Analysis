@@ -123,10 +123,15 @@ Higher price points for pasta dishes,... More add-ons or premium options with pa
 
 #### Combo Performance Analysis
 ![co](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/coo-01.png)
-Combo Type         	Total Orders  	Revenue Generated (UGX)	  Performance
-Pasta + Fast Food	     272	           660,350.12	            Highest Revenue
-Sandwich + Italian	   283	           646,461.52	            Highest Volume
-Burger + Dessert       207             492,304.73            	Underperforming
+
+*Combo Performance*      	
+
+
+| Combo Type | Total Orders | Revenue Generated (UGX) |Performance Status |
+|--------|--------|--------|--------|
+|Pasta + Fast Food|	272	|	660,350.12	| Highest Revenue|
+|Sandwich + Italian	| 283| 646,461.52	|  Highest Volume|
+|Burger + Dessert|207| 492,304.73 |	Underperforming|
 
 Fries + Italian	22	~50,000 (est)	Critically Underperforming
 *Strategic Insight* The Fries + Italian combo with only 22 orders represents a menu engineering failure,  customers clearly don't perceive these items as complementary.
