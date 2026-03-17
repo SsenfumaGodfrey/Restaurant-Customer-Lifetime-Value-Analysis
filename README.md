@@ -86,7 +86,8 @@ The loyalty program demonstrates clear tier effectiveness with platinum members 
 ![po-02.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/layolty.jpg)
 ![po-02.png](https://github.com/SsenfumaGodfrey/Restaurant-Customer-Lifetime-Value-Analysis/blob/main/po-02.png)
 
-Loyalty Tier	Customer Count	Revenue Share	Revenue Contribution
+ |Loyalty Tier	Customer Count |	Revenue Share |	Revenue Contribution |
+  |---------------------------|----------------|---------------------|
 |Platinum	|1,828 (Total Order)	|30.11% Tota Revenue|	Highest per-customer value|
 |Golden|	1,743 (Total Order)	|	29.51%Tota Revenue|	Strong second tier|
 |Bronze/Low	|~2,000 (Total Order)	|	20.05%Tota Revenue	|Combined segment|
