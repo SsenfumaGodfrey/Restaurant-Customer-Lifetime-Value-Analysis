@@ -4,8 +4,9 @@
 
 ### *Table of Content*
 
--[Executive Summary](#Executive-Summary)
-  -[Key Findings:](#Key-Findings:)
+- [Executive Summary](#Executive-Summary)
+
+  - [Key Findings:](#Key-Findings:)
 
 Market Analysis
 
