@@ -42,7 +42,7 @@ The geographical distribution of revenue reveals a two-tier market structure wit
  |------|--------|-------|-------|  
 |Multan	|21.28%|	1,256|	#1 (Top Performer)|
 |Lahore|	20.33%	|1,217|	#2 (Strong Performer)|
-|Karachi|	18.60%	|1,145|	#3 (Underperformer)|
+|Karachi|	18.60%	|1,145| (Underperformer)|
 
 
 Key Insights:
