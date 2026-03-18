@@ -16,7 +16,7 @@
 
 - [Customer Retention & Churn Analysis](#Customer-Retention-&-Churn-Analysis)
 
--[Operational Efficiency Analysis](Operational-Efficiency-Analysis)
+- [Operational Efficiency Analysis](Operational-Efficiency-Analysis)
 
 - [Strategic Recommendations](#Strategic-Recommendations)
 
