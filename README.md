@@ -2,7 +2,7 @@
 
 *Comprehensive Business Intelligence Report*
 
-*### Table of Contents*
+### *Table of Contents*
 
 Market Analysis
 
