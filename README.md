@@ -1,13 +1,7 @@
 # Customer-Lifetime-Value-Analysis
 
 *Comprehensive Business Intelligence Report*
-
-## Executive Summary
-This comprehensive analysis examines customer behavior, revenue patterns and operational efficiency across a restaurant chain's operations. The study integrates data from five key business perspectives like Market Analysis, Customer Loyalty, Product Performance, Customer Retention and Logistics Operations. The findings reveal critical insights about market dominance, customer segmentation, product preferences and operational challenges that directly impact the company's bottom line.
-
-#### Key Finding: The business shows remarkable gender balance (within 1% revenue difference across all genders) but faces significant operational challenges with 33% revenue loss due to order cancellations and a concerning 49.31% revenue contribution from inactive customers.
-
-Table of Contents
+*###Table of Contents*
 Market Analysis
 
 Customer Demographics
@@ -23,6 +17,13 @@ Operational Efficiency
 Strategic Recommendations
 
 Conclusion
+
+## Executive Summary
+This comprehensive analysis examines customer behavior, revenue patterns and operational efficiency across a restaurant chain's operations. The study integrates data from five key business perspectives like Market Analysis, Customer Loyalty, Product Performance, Customer Retention and Logistics Operations. The findings reveal critical insights about market dominance, customer segmentation, product preferences and operational challenges that directly impact the company's bottom line.
+
+#### Key Finding: The business shows remarkable gender balance (within 1% revenue difference across all genders) but faces significant operational challenges with 33% revenue loss due to order cancellations and a concerning 49.31% revenue contribution from inactive customers.
+
+
 
 ## Market Analysis
 ### *OVERVIEW INSIGHTS*
