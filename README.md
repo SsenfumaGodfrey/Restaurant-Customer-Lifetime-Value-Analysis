@@ -1,7 +1,9 @@
 # Customer-Lifetime-Value-Analysis
 
 *Comprehensive Business Intelligence Report*
+
 *###Table of Contents*
+
 Market Analysis
 
 Customer Demographics
